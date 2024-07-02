@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/font/Helvantica-Medium-Italic.ttf",
+      "sha1": "8d12b19f3343071fd3e0314ccec85334901c1074"
+    },
+    {
+      "path": "assets/font/Helvantica-Medium.ttf",
+      "sha1": "75c2a05519b047d2276df5595bd8c8daa4354ea8"
+    },
+    {
+      "path": "assets/font/Helvantica-italic.ttf",
+      "sha1": "caf35bc5a6f862e69ad4e10a2d0efbd4b296e665"
+    },
+    {
+      "path": "assets/font/Helvantica.ttf",
+      "sha1": "0014869c3a1b51898b5f3460e23a5e9996bef80d"
+    },
+    {
+      "path": "assets/font/helveticamedit.ttf",
+      "sha1": "a719d476ef749dfdb2c85102caee6d17b5e32b0f"
+    }
+  ]
+}

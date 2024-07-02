@@ -1,0 +1,12 @@
+export const finger = require('../assets/finger.png');
+export const fly = require('../assets/fly.png');
+export const drop = require('../assets/drop.png');
+export const medical = require('../assets/medical.png');
+export const cp = require('../assets/cp.png');
+export const group = require('../assets/Group.png');
+export const yellow = require('../assets/yellow.png');
+export const pink = require('../assets/pink.png');
+export const purple = require('../assets/purple.png');
+export const blueCard = require('../assets/blueCard.png');
+export const wifi = require('../assets/wifi.png');
+export const visa = require('../assets/visa.png');

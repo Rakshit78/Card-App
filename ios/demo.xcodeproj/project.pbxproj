@@ -14,7 +14,12 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-demo-demoTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-demo-demoTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		87F521DDD7F5476BA8027BFA /* helveticamedit.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 94F47E2654184AB89926778B /* helveticamedit.ttf */; };
+		AE6CBDDCE30143A3BC4B77BB /* Helvantica-Medium-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ADBD04203922427BA9D37B01 /* Helvantica-Medium-Italic.ttf */; };
+		BBE832844E174E10BA3441E3 /* Helvantica.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C33938A6EF5C4E47ACDF30D0 /* Helvantica.ttf */; };
 		CAFDFBB1CA2BC84F65DFAF6D /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = F593D50350B7F8B58E2253E2 /* PrivacyInfo.xcprivacy */; };
+		DAA79C713DC048B6892E938D /* Helvantica-italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 042153AF161A493CBAAC89BC /* Helvantica-italic.ttf */; };
+		FB5B18BBCFA141A4B476DC57 /* Helvantica-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 470FF476C5E34E33ABA645B9 /* Helvantica-Medium.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,6 +36,7 @@
 		00E356EE1AD99517003FC87E /* demoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = demoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* demoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = demoTests.m; sourceTree = "<group>"; };
+		042153AF161A493CBAAC89BC /* Helvantica-italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Helvantica-italic.ttf"; path = "../assets/font/Helvantica-italic.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = demo/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = demo/AppDelegate.mm; sourceTree = "<group>"; };
@@ -40,11 +46,15 @@
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = demo/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-demo-demoTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-demo-demoTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demo.debug.xcconfig"; path = "Target Support Files/Pods-demo/Pods-demo.debug.xcconfig"; sourceTree = "<group>"; };
+		470FF476C5E34E33ABA645B9 /* Helvantica-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Helvantica-Medium.ttf"; path = "../assets/font/Helvantica-Medium.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demo.release.xcconfig"; path = "Target Support Files/Pods-demo/Pods-demo.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-demo-demoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demo-demoTests.debug.xcconfig"; path = "Target Support Files/Pods-demo-demoTests/Pods-demo-demoTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-demo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-demo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = demo/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-demo-demoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demo-demoTests.release.xcconfig"; path = "Target Support Files/Pods-demo-demoTests/Pods-demo-demoTests.release.xcconfig"; sourceTree = "<group>"; };
+		94F47E2654184AB89926778B /* helveticamedit.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = helveticamedit.ttf; path = ../assets/font/helveticamedit.ttf; sourceTree = "<group>"; };
+		ADBD04203922427BA9D37B01 /* Helvantica-Medium-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Helvantica-Medium-Italic.ttf"; path = "../assets/font/Helvantica-Medium-Italic.ttf"; sourceTree = "<group>"; };
+		C33938A6EF5C4E47ACDF30D0 /* Helvantica.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Helvantica.ttf; path = ../assets/font/Helvantica.ttf; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F593D50350B7F8B58E2253E2 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = demo/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -127,6 +137,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				C62B61438A8043BE8348E9AE /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -151,6 +162,19 @@
 				89C6BE57DB24E9ADA2F236DE /* Pods-demo-demoTests.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		C62B61438A8043BE8348E9AE /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				ADBD04203922427BA9D37B01 /* Helvantica-Medium-Italic.ttf */,
+				470FF476C5E34E33ABA645B9 /* Helvantica-Medium.ttf */,
+				042153AF161A493CBAAC89BC /* Helvantica-italic.ttf */,
+				C33938A6EF5C4E47ACDF30D0 /* Helvantica.ttf */,
+				94F47E2654184AB89926778B /* helveticamedit.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -249,6 +273,11 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				CAFDFBB1CA2BC84F65DFAF6D /* PrivacyInfo.xcprivacy in Resources */,
+				AE6CBDDCE30143A3BC4B77BB /* Helvantica-Medium-Italic.ttf in Resources */,
+				FB5B18BBCFA141A4B476DC57 /* Helvantica-Medium.ttf in Resources */,
+				DAA79C713DC048B6892E938D /* Helvantica-italic.ttf in Resources */,
+				BBE832844E174E10BA3441E3 /* Helvantica.ttf in Resources */,
+				87F521DDD7F5476BA8027BFA /* helveticamedit.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
